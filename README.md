@@ -58,8 +58,8 @@ Logging of test execution details and any errors encountered during testing is m
 
 ## Reporting
 
-TestNG provides built-in reporting features, and you can generate detailed test execution reports by configuring the `testng.xml` file.
-The Test execution details are logged in logging.log File
+- TestNG provides built-in reporting features, and you can generate detailed test execution reports by configuring the `testng.xml` file.
+- The Test execution details are logged in 'logging.log' File
 
 ## Maintenance
 
