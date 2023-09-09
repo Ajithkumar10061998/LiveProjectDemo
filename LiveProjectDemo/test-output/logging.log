@@ -1,0 +1,18 @@
+2023-09-08 21:03:40 INFO  CommonFunctions:38 - Orange HRM Test Begins
+  2023-09-08 21:03:40 INFO  CommonFunctions:39 - Loading the Property Files
+  2023-09-08 21:03:40 INFO  CommonFunctions:44 - Launching Chrome Browser
+  2023-09-08 21:03:56 INFO  CommonFunctions:59 - Application Launched successfully
+  2023-09-08 21:03:56 INFO  Test_Login:15 - Login into the Application with Valid Credits
+  2023-09-08 21:03:58 INFO  Test_Pending_Self_Review:17 - Checking the pending self review
+  2023-09-08 21:04:04 INFO  Test_Pending_Self_Review:20 - Status verfication
+  2023-09-08 21:04:05 INFO  Test_Pending_Self_Review:25 - End of Pending self review
+  2023-09-08 21:04:05 INFO  Test_User_Role_Status:27 - Navigating to Admin Page
+  2023-09-08 21:04:08 INFO  Test_User_Role_Status:32 - Clicking the User under user Management
+  2023-09-08 21:04:08 INFO  Test_User_Role_Status:35 - Instead of Select class I use Robot Class Functions
+  2023-09-08 21:04:08 INFO  Test_User_Role_Status:37 - Selecting the User Role
+  2023-09-08 21:04:09 INFO  Test_User_Role_Status:46 - Selecting the Status
+  2023-09-08 21:04:10 INFO  Test_User_Role_Status:55 - Searching the filtered Records
+  2023-09-08 21:04:10 INFO  Test_User_Role_Status:58 - Verfication of records
+  2023-09-08 21:04:10 INFO  Test_User_Role_Status:66 - End of User Role Status Test Case
+  2023-09-08 21:04:10 INFO  CommonFunctions:66 - Execution Done-Closing The Browser
+  
